@@ -34,10 +34,12 @@ drwxr-xr-x   4 lihaifeng  staff   136 12  6 09:32 债云端Tests
 drwxr-xr-x   4 lihaifeng  staff   136 12  6 09:32 债云端UITests
 
 2 经过ls -la可以确定.gitignore文件有无，如果有，可以直接使用终端输入指令open .gitignore，打开.gitignore文件，将要忽略的文件内容添加进去，
-可以从https://github.com/github/gitignore博客中查找对应语言的忽略文件内容，粘贴到打开的.gitignore文件中即可；
+可以从https://github.com/github/gitignore
+博客中查找对应语言的忽略文件内容，粘贴到打开的.gitignore文件中即可；
 即终端指令：open .gitignore
 如果不存在.gitignore文件，则使用终端指令touch .gitignore，创建一个和.git同级目录下的空白.gitignore文件，然后终端指令open .gitignore，
-打开空白的.gitignore文件，同样从https://github.com/github/gitignore博客中查找对应语言的忽略文件内容，粘贴到打开的.gitignore文件中即可；
+打开空白的.gitignore文件，同样从https://github.com/github/gitignore
+博客中查找对应语言的忽略文件内容，粘贴到打开的.gitignore文件中即可；
 忽略文件粘贴完成，将.gitignore文件提交push到远程代码库中即可了，这样，远程代码库中就存在.gitignore文件了，任何人拉取代码都会有.gitignore文件了
 ；第二种场景下的忽略文件就配置结束了，可以使用了
 
