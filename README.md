@@ -17,7 +17,7 @@ cd /项目本地工程目录
 ls -la (目的 查看工程目录下所有文件，查看是否有.gitignore文件）
 终端中显示的文件目录层级如下：
 total 56
-drwxr-xr-x  15 lihaifeng  staff   510 12  6 10:16 .
+drwxr-xr-x  15 lihaifeng  staff   510 12  6 10:16 .
 drwxr-xr-x  17 lihaifeng  staff   578 12  6 16:06 ..
 -rw-r--r--@  1 lihaifeng  staff  6148 12  8 17:33 .DS_Store
 drwxr-xr-x  13 lihaifeng  staff   442 12  7 17:53 .git
