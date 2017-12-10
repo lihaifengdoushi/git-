@@ -19,6 +19,19 @@ ls -la (目的 查看工程目录下所有文件，查看是否有.gitignore文�
 total 56
 drwxr-xr-x  15 lihaifeng  staff   510 12  6 10:16 .
 drwxr-xr-x  17 lihaifeng  staff   578 12  6 16:06 ..
+-rw-r--r--@  1 lihaifeng  staff  6148 12  8 17:33 .DS_Store
+drwxr-xr-x  13 lihaifeng  staff   442 12  7 17:53 .git
+-rw-r--r--@  1 lihaifeng  staff  1397 12  6 10:16 .gitignore
+-rw-r--r--   1 lihaifeng  staff  1073 12  6 09:32 LICENSE
+-rw-r--r--   1 lihaifeng  staff   693 12  6 09:32 Podfile
+-rw-r--r--   1 lihaifeng  staff  1561 12  6 09:32 Podfile.lock
+drwxr-xr-x  15 lihaifeng  staff   510 12  8 09:02 Pods
+-rw-r--r--   1 lihaifeng  staff    26 12  6 09:32 README.md
+drwxr-xr-x  12 lihaifeng  staff   408 12  6 09:32 债云端
+drwxr-xr-x   5 lihaifeng  staff   170 12  6 09:32 债云端.xcodeproj
+drwxr-xr-x   4 lihaifeng  staff   136 12  6 09:32 债云端.xcworkspace
+drwxr-xr-x   4 lihaifeng  staff   136 12  6 09:32 债云端Tests
+drwxr-xr-x   4 lihaifeng  staff   136 12  6 09:32 债云端UITests
 
 2 经过ls -la可以确定.gitignore文件有无，如果有，可以直接使用终端输入指令open .gitignore，打开.gitignore文件，将要忽略的文件内容添加进去，
 可以从https://github.com/github/gitignore
